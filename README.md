@@ -1,0 +1,1 @@
+Was prototyped a hidraulic plant with its linear water level control by using DC pump, Wemos Lolin ESP32 Lite, ultrassonic sensor HC-SR04 and a analog circuit composed by a level adjust, subtractor, PI controller and a DC drive, both made with operational amplifiers such as TL084
